@@ -1,5 +1,7 @@
 # Your first TeachBook using the GitHub template
 
+change
+
 The template allows you to start your own TeachBook and hosting that TeachBook online without knowledge on Git, the Jupyter book package, python or anaconda. It doesn't elaborate on the collaborative functionalities of Git or how to edit the book. Please look at our manual (https://teachbooks.tudelft.nl/jupyter-book-manual) to find more about that!
 
 ## Features
